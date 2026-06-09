@@ -48,7 +48,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _distortion: 0
-    - _refraction: 0.05
+    - _refraction: 0.16
     - _refraction_speed: 0.05
     m_Colors:
     - _DeepWater: {r: 0.02063681, g: 0, b: 0.1415093, a: 0.89411765}
