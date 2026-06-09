@@ -41,18 +41,21 @@ Material:
     - _DisplacementAmount: 5.4
     - _Distance: 1
     - _FoamAmount: 6.6
-    - _FoamCuttOff: 0.75
+    - _FoamCuttOff: 0.7
     - _FoamsScale: 355.6
     - _FoamsSpeed: 0.37
     - _NoiseScale: 3.4
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _distortion: 0
+    - _refraction: 0.05
+    - _refraction_speed: 0.05
     m_Colors:
-    - _DeepWater: {r: 0.02063681, g: 0, b: 0.14150935, a: 0}
+    - _DeepWater: {r: 0.02063681, g: 0, b: 0.1415093, a: 0.89411765}
     - _FoamColor: {r: 0, g: 1, b: 0.8716099, a: 0.6941177}
-    - _ShallowWater: {r: 0.041063964, g: 0.02006942, b: 0.38679245, a: 0.8235294}
+    - _ShallowWater: {r: 0.041063912, g: 0.02006942, b: 0.3867924, a: 1}
     - _Speed: {r: 0.27, g: 2.29, b: 0, a: 0}
-    - _Tiling: {r: 5.43, g: 4.86, b: 0, a: 0}
+    - _Tiling: {r: 8.32, g: 1.8, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &3365681728142346155
